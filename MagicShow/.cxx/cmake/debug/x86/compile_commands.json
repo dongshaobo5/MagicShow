@@ -1,0 +1,25 @@
+[
+{
+  "directory": "E:/study/MagicShow/MagicShow/.cxx/cmake/debug/x86",
+  "command": "E:\\AndroidStudio_SDK\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android18 --gcc-toolchain=E:/AndroidStudio_SDK/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/AndroidStudio_SDK/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DMagicJni_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\MagicJni.dir\\src\\main\\cpp\\beautify\\MagicBeautify.cpp.o -c E:\\study\\MagicShow\\MagicShow\\src\\main\\cpp\\beautify\\MagicBeautify.cpp",
+  "file": "E:/study/MagicShow/MagicShow/src/main/cpp/beautify/MagicBeautify.cpp"
+},
+
+{
+  "directory": "E:/study/MagicShow/MagicShow/.cxx/cmake/debug/x86",
+  "command": "E:\\AndroidStudio_SDK\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android18 --gcc-toolchain=E:/AndroidStudio_SDK/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/AndroidStudio_SDK/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DMagicJni_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\MagicJni.dir\\src\\main\\cpp\\bitmap\\BitmapOperation.cpp.o -c E:\\study\\MagicShow\\MagicShow\\src\\main\\cpp\\bitmap\\BitmapOperation.cpp",
+  "file": "E:/study/MagicShow/MagicShow/src/main/cpp/bitmap/BitmapOperation.cpp"
+},
+
+{
+  "directory": "E:/study/MagicShow/MagicShow/.cxx/cmake/debug/x86",
+  "command": "E:\\AndroidStudio_SDK\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android18 --gcc-toolchain=E:/AndroidStudio_SDK/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/AndroidStudio_SDK/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DMagicJni_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\MagicJni.dir\\src\\main\\cpp\\bitmap\\Conversion.cpp.o -c E:\\study\\MagicShow\\MagicShow\\src\\main\\cpp\\bitmap\\Conversion.cpp",
+  "file": "E:/study/MagicShow/MagicShow/src/main/cpp/bitmap/Conversion.cpp"
+},
+
+{
+  "directory": "E:/study/MagicShow/MagicShow/.cxx/cmake/debug/x86",
+  "command": "E:\\AndroidStudio_SDK\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android18 --gcc-toolchain=E:/AndroidStudio_SDK/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/AndroidStudio_SDK/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DMagicJni_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\MagicJni.dir\\src\\main\\cpp\\MagicJni.cpp.o -c E:\\study\\MagicShow\\MagicShow\\src\\main\\cpp\\MagicJni.cpp",
+  "file": "E:/study/MagicShow/MagicShow/src/main/cpp/MagicJni.cpp"
+}
+]

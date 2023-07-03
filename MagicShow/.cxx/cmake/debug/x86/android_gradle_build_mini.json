@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "E:\\study\\MagicShow\\MagicShow\\CMakeLists.txt",
+    "E:\\AndroidStudio_SDK\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "E:\\AndroidStudio_SDK\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "E:\\AndroidStudio_SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\study\\MagicShow\\MagicShow\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "E:\\AndroidStudio_SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"E:\\study\\MagicShow\\MagicShow\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "MagicJni-Debug-x86": {
+      "artifactName": "MagicJni",
+      "buildCommand": "E:\\AndroidStudio_SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\study\\MagicShow\\MagicShow\\.cxx\\cmake\\debug\\x86\" MagicJni",
+      "abi": "x86",
+      "output": "E:\\study\\MagicShow\\MagicShow\\build\\intermediates\\cmake\\debug\\obj\\x86\\libMagicJni.so",
+      "runtimeFiles": []
+    }
+  }
+}
